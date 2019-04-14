@@ -1,0 +1,6 @@
+{
+  "tracks":[
+    {"id": 0, "name": "Karen Ayaya", "dir": "tracks/ayaya.wav"},
+    {"id": 1, "name": "You Say Run", "dir": "tracks/yousayrun.wav"}
+  ]
+}
